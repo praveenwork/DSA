@@ -1,6 +1,7 @@
-package com.interview.preparation.dsa.problemsolving;
+package com.interview.preparation.dsa.datastructures.O2_linkedlist;
 
-class ListNode {
+class
+ListNode {
       int val;
       ListNode next;
       ListNode() {}

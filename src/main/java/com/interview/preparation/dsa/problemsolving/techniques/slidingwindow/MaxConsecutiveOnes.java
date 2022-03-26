@@ -1,5 +1,7 @@
 package com.interview.preparation.dsa.problemsolving.techniques.slidingwindow;
 
+import java.util.Hashtable;
+
 /**
  *  LeetCode: 485, 487, 1004.
  *  Given a binary array nums, return the maximum number of consecutive 1's in the array if you can flip at most one 0.
